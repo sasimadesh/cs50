@@ -28,6 +28,7 @@ public class Cash {
 				n=n-1;
 			}
 		}
+		System.out.println("The number of quarters given is"+c);
 		System.out.println("The number of quaters given is"+c);
 		System.out.println("The number of dimes given is"+c1);
 		System.out.println("The number of nickels given is"+c2);
